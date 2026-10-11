@@ -7,6 +7,8 @@ description: Simple local JavaScript app for managing customers, orders and orde
 
 A light, browser-only application to manage customers, their orders, and the order lines in each order. All data is stored in the browser's `localStorage`; there is no server or database.
 
+This demo was built as an AI-assisted SDLC exercise using HVE Core and GitHub Copilot.
+
 Source requirement: [docs/requirements/raw/raw-requirement.txt](docs/requirements/raw/raw-requirement.txt).
 Business requirements: [docs/brds/customer-order-brd.md](docs/brds/customer-order-brd.md).
 Product requirements: [docs/requirements/refined/customer-order-prd.md](docs/requirements/refined/customer-order-prd.md).
