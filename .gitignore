@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+.copilot-tracking/
+playwright-report/
+test-results/
+dist/
+.env
+.env.*
+!.env.example

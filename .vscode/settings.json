@@ -1,0 +1,5 @@
+{
+    "github.copilot.completions.chat.enabled": true,
+    "github.copilot.chat.rateLimitAutoSwitchToAuto": true,
+    "github.copilot.chat.agent.autoFix": true
+}
